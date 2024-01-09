@@ -1,0 +1,9 @@
+Création d'un dossier composants
+
+//EXO 1
+création d'un composant Article.jsx pour afficher le contenu d'un article
+boucle for pour faire les 5 articles
+
+//EXO 2
+ajouter bouton lire l'article avec id
+quand on clic dessus ajout d'un props dans un nouveau composant qui affiche que l'article sélectionné
